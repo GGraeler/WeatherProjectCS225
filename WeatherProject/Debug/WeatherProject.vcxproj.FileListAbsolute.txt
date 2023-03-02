@@ -1,0 +1,4 @@
+C:\Users\ggrae\OneDrive\Desktop\JuniorYear\Spring2023\CS225\WeatherProject\Debug\WeatherProject.vcxproj.CopyComplete
+C:\Users\ggrae\OneDrive\Desktop\JuniorYear\Spring2023\CS225\WeatherProject\Debug\WeatherProject.exe
+C:\Users\ggrae\OneDrive\Desktop\JuniorYear\Spring2023\CS225\WeatherProject\Debug\libcurl-d.dll
+C:\Users\ggrae\OneDrive\Desktop\JuniorYear\Spring2023\CS225\WeatherProject\Debug\zlibd1.dll
